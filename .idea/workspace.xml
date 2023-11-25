@@ -10,245 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e51de11-4acb-42ce-932a-b8c27e5176bb" name="Changes" comment="alkdj">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/My_SSM_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/smbms.7piHBg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_SSM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/controller/ShopController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/services/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/services/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/utils/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/aspectjweaver-1.6.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/userview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/controller/ShopController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/services/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/services/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/utils/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application-data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application-trans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/configuration.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/controller/ShopController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/services/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/services/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.6.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/statics/js/userview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -531,8 +293,17 @@
       <workItem from="1700877630308" duration="593000" />
       <workItem from="1700878238760" duration="35000" />
       <workItem from="1700878281715" duration="14000" />
-      <workItem from="1700878410232" duration="635000" />
+      <workItem from="1700878410232" duration="1873000" />
     </task>
+    <task id="LOCAL-00001" summary="alkdj">
+      <option name="closed" value="true" />
+      <created>1700879188288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700879188288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +314,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
