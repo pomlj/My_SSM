@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.kangzhan.dao.UserMapper">
+
+	<!-- 查询用户表记录数 -->
+	<select id="count" resultType="int">
+		select count(1) as count from smbms_user
+	</select>
+
+	<select id="login" resultType="user">
+		select *  from smbms_user where
+			userCode=#{username} and userPassword=#{password}
+	</select>
+
+	<insert id="add" parameterType="user">
+		insert into smbms_user (userCode,userName,userPassword,gender,
+								birthday,phone,address,userRole,createdBy,creationDate)
+		values (#{userCode},#{userName},#{userPassword},#{gender},
+				#{birthday},#{phone},#{address},#{userRole},
+				#{createdBy},#{creationDate})
+	</insert>
+
+
+
+</mapper>

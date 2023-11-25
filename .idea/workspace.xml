@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="My_SSM:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e51de11-4acb-42ce-932a-b8c27e5176bb" name="Changes" comment="alkdj">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/My_SSM_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/smbms.7piHBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/01e882c7-aed8-4a94-ae58-49c5dea473c7/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_SSM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/controller/ShopController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/entiy/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/services/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/services/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/com/kangzhan/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/aspectjweaver-1.6.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/My_SSM_war_exploded/statics/js/userview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/controller/ShopController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/entiy/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/services/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/services/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/com/kangzhan/utils/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/My_SSM/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/application-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/application-data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/application-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/application-trans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/controller/ShopController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/entiy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/services/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/services/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kangzhan/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/common/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/frame.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.6.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/lombok-1.18.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/WdatePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/lang/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/WdatePicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/datePicker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/default/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/default/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/buy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/formBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/gys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/leftBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/loginBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/login_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/read.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/schu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/tc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/tianjia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/xiugai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/images/zd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/billadd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/billlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/billmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/billview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/provideradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/providerlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/providermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/providerview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/pwdmodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/rollpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/useradd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/userlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/usermodify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/statics/js/userview.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.3.9\conf\settings.bimserver.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X90jGG4GHEJXtIAmLM2ekNUogs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/Java代码/全栈/My_SSM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java代码\全栈\My_SSM\web\WEB-INF\lib" />
+      <recent name="G:\康展\全栈班\SSM课件资料\Chapter13\01 提供给教员的内容\02 上机练习参考答案\练习2：搭建SSM框架-实现超市订单系统角色管理功能\My_SSM\web\WEB-INF\jsp" />
+      <recent name="G:\康展\全栈班\SSM课件资料\Chapter13\01 提供给教员的内容\02 上机练习参考答案\练习2：搭建SSM框架-实现超市订单系统角色管理功能\My_SSM\web\WEB-INF" />
+      <recent name="G:\康展\全栈班\SSM课件资料\Chapter13\01 提供给教员的内容\02 上机练习参考答案\练习2：搭建SSM框架-实现超市订单系统角色管理功能\My_SSM\web" />
+      <recent name="G:\康展\全栈班\SSM课件资料\Chapter13\01 提供给教员的内容\02 上机练习参考答案\练习2：搭建SSM框架-实现超市订单系统角色管理功能\My_SSM\web\WEB-INF\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\康展\全栈班\SSM课件资料\Chapter13\01 提供给教员的内容\02 上机练习参考答案\练习2：搭建SSM框架-实现超市订单系统角色管理功能\My_SSM\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kangzhan.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.82">
+    <configuration name="SpringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.oldhello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="oldhello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.springAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="springAop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.springMybatis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="springMybatis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.springhello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="My_SSM" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="springhello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.82" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.82" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="My_SSM:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/My_SSM" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="902789f8-6628-425d-82c8-3f81be709c58" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49828" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="My_SSM:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringTest" />
+      <item itemvalue="JUnit.SpringTest.oldhello" />
+      <item itemvalue="JUnit.SpringTest.springAop" />
+      <item itemvalue="JUnit.SpringTest.springhello" />
+      <item itemvalue="JUnit.SpringTest.springMybatis" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.82" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringTest.springMybatis" />
+        <item itemvalue="JUnit.SpringTest" />
+        <item itemvalue="JUnit.SpringTest.springAop" />
+        <item itemvalue="JUnit.SpringTest.springhello" />
+        <item itemvalue="JUnit.SpringTest.oldhello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e51de11-4acb-42ce-932a-b8c27e5176bb" name="Changes" comment="" />
+      <created>1698026137626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698026137626</updated>
+      <workItem from="1698026138924" duration="5462000" />
+      <workItem from="1698129963208" duration="5173000" />
+      <workItem from="1698203071010" duration="80000" />
+      <workItem from="1698452992843" duration="5115000" />
+      <workItem from="1698625809792" duration="9546000" />
+      <workItem from="1698713182716" duration="4446000" />
+      <workItem from="1698798644749" duration="9778000" />
+      <workItem from="1699325181773" duration="128000" />
+      <workItem from="1699405438571" duration="3159000" />
+      <workItem from="1699489767215" duration="11473000" />
+      <workItem from="1699598713185" duration="5260000" />
+      <workItem from="1699662600208" duration="8569000" />
+      <workItem from="1699673983605" duration="891000" />
+      <workItem from="1699686575190" duration="151000" />
+      <workItem from="1699921950866" duration="5689000" />
+      <workItem from="1700443388245" duration="3518000" />
+      <workItem from="1700526992164" duration="4426000" />
+      <workItem from="1700565472326" duration="763000" />
+      <workItem from="1700612943385" duration="9430000" />
+      <workItem from="1700699485036" duration="2964000" />
+      <workItem from="1700721887613" duration="197000" />
+      <workItem from="1700722101264" duration="5290000" />
+      <workItem from="1700809745443" duration="753000" />
+      <workItem from="1700872112294" duration="1407000" />
+      <workItem from="1700877630308" duration="593000" />
+      <workItem from="1700878238760" duration="35000" />
+      <workItem from="1700878281715" duration="14000" />
+      <workItem from="1700878410232" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="alkdj" />
+    <option name="LAST_COMMIT_MESSAGE" value="alkdj" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException" package="com.mysql.jdbc.exceptions.jdbc4" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql">
+            <option name="NOTIFY_CAUGHT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((HashMap)user).entrySet().toArray()[3]" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
